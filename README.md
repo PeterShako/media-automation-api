@@ -43,7 +43,7 @@ Built as part of the **Foundations: Generative AI for Developers** course at Mor
 
 Before running this project, make sure you have the following installed:
 
-- **Python 3.10+** — [python.org](https://python.org)
+- **Python 3.10+** — [python.org](https://python.org), please note, run Python 3.12, as newer versions may not work with the OpenAI-Whisper tool
 - **MySQL Server 8.0+** — [dev.mysql.com](https://dev.mysql.com/downloads/)
 - **MySQL Workbench** — [dev.mysql.com/downloads](https://dev.mysql.com/downloads/workbench/)
 - **FFmpeg** (required by Whisper) — [ffmpeg.org](https://ffmpeg.org) or [gyan.dev](https://www.gyan.dev/ffmpeg/builds/) for Windows
